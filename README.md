@@ -28,9 +28,11 @@
   <img align="center" alt="Rubens-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234864-113f9913-adf0-4f25-99d4-e64c745a97b3.svg">
   <img align="center" alt="Rubens-Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234877-f8debc43-e8ab-4e05-94a7-cb57f50f3a71.svg">
   <img align="center" alt="Rubens-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234878-fb9595a9-1e26-40a4-80c6-e89ed1335fb1.svg">
+  <img align="right" alt="Rubens-pic" height="130px" style="border-radius:50px;" src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765">
 </div> 
   
   ##
+  
   
   <div>
     <a href="https://wa.me/5521982995513" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" target="_blank"></a>
@@ -38,11 +40,8 @@
   <a href="https://www.instagram.com/rubens.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kbs.rubens@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rubens-silva-0b3b75188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <img align="center" alt="Rubens-pic" height="427px" style="border-radius:50px;" src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765">
+      
    </div>
- 
-  ##
-  
   
 ![Snake animation](https://github.com/rubens-correa/rubens-correa/blob/output/github-contribution-grid-snake.svg)
   

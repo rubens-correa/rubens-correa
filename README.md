@@ -22,13 +22,14 @@
   <img align="center" alt="Rubens-Angular" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234867-f5ee9ba5-7d7b-4b31-ad51-1aa147f5700b.svg">
   <img align="center" alt="Rubens-Ruby" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234890-fd274fe2-d798-4380-acb9-2cd69cf9e3f5.svg">
   <img align="center" alt="Rubens-VueJs" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234891-9c6bde51-ba27-447d-8bf7-54c060842275.svg">
+   <img align="center" alt="Rubens-Node" height="40" width="40" src="https://user-images.githubusercontent.com/87000522/171270542-ba911edc-c746-4243-8e82-1c9c2217f0d3.svg">
   <img align="center" alt="Rubens-GraphQL" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234883-0ea155a4-f09a-4579-b9f4-0e0d4a71dea8.svg">
   <img align="center" alt="Rubens-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234886-43245dbc-a5b2-411c-809b-2a22a52d2edd.svg">
   <img align="center" alt="Rubens-Docker" height="40" width="50" src="https://user-images.githubusercontent.com/87000522/171234874-ef7d9a12-0d87-4e58-b157-457f99d5ccef.svg">
   <img align="center" alt="Rubens-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234864-113f9913-adf0-4f25-99d4-e64c745a97b3.svg">
   <img align="center" alt="Rubens-Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234877-f8debc43-e8ab-4e05-94a7-cb57f50f3a71.svg">
   <img align="center" alt="Rubens-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234878-fb9595a9-1e26-40a4-80c6-e89ed1335fb1.svg">
-   <img align="center" alt="Rubens-Node" height="40" width="40" src="https://user-images.githubusercontent.com/87000522/171270542-ba911edc-c746-4243-8e82-1c9c2217f0d3.svg">
+  
 </div> 
   
   ##

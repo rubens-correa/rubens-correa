@@ -44,5 +44,5 @@
   ##
   
   
-![Snake animation](https://github.com/Rubens-CSC/Rubens-CSC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rubens-correa/rubens-correa/blob/output/github-contribution-grid-snake.svg)
   

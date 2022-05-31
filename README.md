@@ -28,7 +28,7 @@
   <img align="center" alt="Rubens-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234864-113f9913-adf0-4f25-99d4-e64c745a97b3.svg">
   <img align="center" alt="Rubens-Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234877-f8debc43-e8ab-4e05-94a7-cb57f50f3a71.svg">
   <img align="center" alt="Rubens-Flutter" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234878-fb9595a9-1e26-40a4-80c6-e89ed1335fb1.svg">
-   <img align="center" alt="Rubens-Node" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171270372-cc20010e-0832-4bf1-a65b-9c53069feac4.svg">
+   <img align="center" alt="Rubens-Node" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171270542-ba911edc-c746-4243-8e82-1c9c2217f0d3.svg">
 </div> 
   
   ##

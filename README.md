@@ -1,6 +1,6 @@
 <div><h1>Olá! Me chamo Rubens 👋</h1> 
 <h4>- 🔭 Atualmente trabalho com desenvolvimento Web e Mobile</h4>
-<h4>- 💬 Sou graduando de Ciência da Computação e estou no 5º período</h4>
+<h4>- 💬 Sou graduando de Tecnologia em Sistemas de Computação e estou no 1º período</h4>
 <h4>- 😄 Estou estagiando como desenvolvedor na Embrapa/Solos</h4>
 <h4>- ⚡ Venho me mantendo em estudo sobre Typescript e tenho objetivo de ingressar na área de Biotecnologia</h4>
 </div>
